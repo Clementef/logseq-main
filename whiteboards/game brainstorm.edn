@@ -1,0 +1,1192 @@
+{:blocks (
+{:block/created-at 1701592391047
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "blue"
+:borderRadius 0
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill "blue"
+:type "text"
+:size [277 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "01bf7750-91b4-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [720 328]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591281274
+:italic false
+:text "mini solar system simulation"}}
+:block/updated-at 1701592391047} 
+{:block/created-at 1701592190204
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [109 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0bccdc60-91b4-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1440 344]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591301867
+:italic false
+:text "diegetic ui"}}
+:block/updated-at 1701592190204} 
+{:block/created-at 1701592190204
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [164 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "26baa110-91b4-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1760 328]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591349312
+:italic false
+:text "world interfaces"}}
+:block/updated-at 1701592190204} 
+{:block/created-at 1701592190204
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [203 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4d606d90-91b4-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1144 288]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591410510
+:italic false
+:text "spaceship controller"}}
+:block/updated-at 1701592190204} 
+{:block/created-at 1701592190204
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [197 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "553c4ca0-91b4-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1136 352]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591423339
+:italic false
+:text "character controller"}}
+:block/updated-at 1701592190204} 
+{:block/created-at 1701592190204
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 5
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "6d375e32-91b4-11ee-b408-29153d21decb"
+:fontWeight 400
+:noFill true
+:point [1550 353.17]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 6.17]
+:bindingId "6d375e30-91b4-11ee-b408-29153d21decb"}
+:end 
+{:id "end"
+:canBind true
+:point [206 0]
+:bindingId "6d375e31-91b4-11ee-b408-29153d21decb"}}
+:decorations 
+{:end "arrow"}
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591464965
+:italic false}}
+:block/updated-at 1701592190204} 
+{:block/created-at 1701592190204
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 6
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "6ed8b220-91b4-11ee-b408-29153d21decb"
+:fontWeight 400
+:noFill true
+:point [998 353.9]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "6ed88b10-91b4-11ee-b408-29153d21decb"}
+:end 
+{:id "end"
+:canBind true
+:point [134 8.56]
+:bindingId "6ed88b11-91b4-11ee-b408-29153d21decb"}}
+:decorations 
+{:end "arrow"}
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591463850
+:italic false}}
+:block/updated-at 1701592190204} 
+{:block/created-at 1701592190204
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 7
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "7bb38f12-91b4-11ee-b408-29153d21decb"
+:fontWeight 400
+:noFill true
+:point [998 311.93]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 16.68]
+:bindingId "7bb38f10-91b4-11ee-b408-29153d21decb"}
+:end 
+{:id "end"
+:canBind true
+:point [142 0]
+:bindingId "7bb38f11-91b4-11ee-b408-29153d21decb"}}
+:decorations 
+{:end "arrow"}
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591485528
+:italic false}}
+:block/updated-at 1701592190204} 
+{:block/created-at 1701593013034
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "red"
+:borderRadius 0
+:index 8
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "text"
+:size [221 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a3540f40-91b4-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1432 424]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591552207
+:italic false
+:text "procedural animations"}}
+:block/updated-at 1701593013034} 
+{:block/created-at 1701592329385
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 9
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "ae2fe7e2-91b4-11ee-b408-29153d21decb"
+:fontWeight 400
+:noFill true
+:point [1337 374.63]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [140.48 45.37]
+:bindingId "ae2fe7e0-91b4-11ee-b408-29153d21decb"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "ae2fe7e1-91b4-11ee-b408-29153d21decb"}}
+:decorations 
+{:start "arrow"
+:end nil}
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591570038
+:italic false}}
+:block/updated-at 1701592329385} 
+{:block/created-at 1701592391047
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "blue"
+:borderRadius 0
+:index 10
+:scale [1 1]
+:scaleLevel "md"
+:fill "blue"
+:type "text"
+:size [290 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b0025df0-91b4-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [776 440]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591574022
+:italic false
+:text "receiver-like weapon controls"}}
+:block/updated-at 1701592391047} 
+{:block/created-at 1701592345604
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 11
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "c9759092-91b4-11ee-b408-29153d21decb"
+:fontWeight 400
+:noFill true
+:point [997.89 390]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 46]
+:bindingId "c9759090-91b4-11ee-b408-29153d21decb"}
+:end 
+{:id "end"
+:canBind true
+:point [168.43 0]
+:bindingId "c9759091-91b4-11ee-b408-29153d21decb"}}
+:decorations 
+{:start nil
+:end "arrow"}
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591615892
+:italic false}}
+:block/updated-at 1701592345604} 
+{:block/created-at 1701592190203
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked false
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 12
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [288 32]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0d83beb0-91b5-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1512 240]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591731595
+:italic false
+:text "star citizen-like ui interaction"}}
+:block/updated-at 1701592190203} 
+{:block/created-at 1701592190204
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 13
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "19c4a592-91b5-11ee-b408-29153d21decb"
+:fontWeight 400
+:noFill true
+:point [1520.7 276]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 67]
+:bindingId "19c4a590-91b5-11ee-b408-29153d21decb"}
+:end 
+{:id "end"
+:canBind true
+:point [97.55 0]
+:bindingId "19c4a591-91b5-11ee-b408-29153d21decb"}}
+:decorations 
+{:end "arrow"}
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591751457
+:italic false}}
+:block/updated-at 1701592190204} 
+{:block/created-at 1701592190204
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 14
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "1acffb12-91b5-11ee-b408-29153d21decb"
+:fontWeight 400
+:noFill true
+:point [1690.27 273]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "1acffb10-91b5-11ee-b408-29153d21decb"}
+:end 
+{:id "end"
+:canBind true
+:point [102.83 51]
+:bindingId "1acffb11-91b5-11ee-b408-29153d21decb"}}
+:decorations 
+{:end "arrow"}
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591753187
+:italic false}}
+:block/updated-at 1701592190204} 
+{:block/created-at 1701592914261
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked false
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 15
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [472 56]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "2b012ef0-91b5-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [752 64]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591780445
+:italic false
+:text "what ties these mechanics together?\nwhy are they needed to make the gameloop fun?"}}
+:block/updated-at 1701592914261} 
+{:block/created-at 1701592391046
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "blue"
+:borderRadius 0
+:index 16
+:scale [1 1]
+:scaleLevel "md"
+:fill "blue"
+:type "text"
+:size [314 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5dcae470-91b5-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [760 512]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591865464
+:italic false
+:text "tarkov-like weapon modification"}}
+:block/updated-at 1701592391046} 
+{:block/created-at 1701592391047
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "blue"
+:borderRadius 0
+:index 17
+:scale [1 1]
+:scaleLevel "md"
+:fill "blue"
+:type "text"
+:size [352 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "69853630-91b5-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [736 584]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591885025
+:italic false
+:text "diablo/dredge-like inventory system"}}
+:block/updated-at 1701592391047} 
+{:block/created-at 1701592350437
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 18
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [160 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "724c1180-91b5-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1152 528]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591899816
+:italic false
+:text "weapon system"}}
+:block/updated-at 1701592350437} 
+{:block/created-at 1701592350437
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 19
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "7816c3d2-91b5-11ee-b408-29153d21decb"
+:fontWeight 400
+:noFill true
+:point [1075 537.03]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "7816c3d0-91b5-11ee-b408-29153d21decb"}
+:end 
+{:id "end"
+:canBind true
+:point [73 3.7]
+:bindingId "7816c3d1-91b5-11ee-b408-29153d21decb"}}
+:decorations 
+{:end "arrow"}
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591909368
+:italic false}}
+:block/updated-at 1701592350437} 
+{:block/created-at 1701592350436
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 20
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "794cd2d2-91b5-11ee-b408-29153d21decb"
+:fontWeight 400
+:noFill true
+:point [1035.62 566]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 17]
+:bindingId "794cd2d0-91b5-11ee-b408-29153d21decb"}
+:end 
+{:id "end"
+:canBind true
+:point [116.76 0]
+:bindingId "794cd2d1-91b5-11ee-b408-29153d21decb"}}
+:decorations 
+{:end "arrow"}
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591911393
+:italic false}}
+:block/updated-at 1701592350436} 
+{:block/created-at 1701592350437
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 21
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "dac86ba2-91b5-11ee-b408-29153d21decb"
+:fontWeight 400
+:noFill true
+:point [1233.03 390]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 137]
+:bindingId "dac86ba0-91b5-11ee-b408-29153d21decb"}
+:end 
+{:id "end"
+:canBind true
+:point [7.84 0]
+:bindingId "dac86ba1-91b5-11ee-b408-29153d21decb"}}
+:decorations 
+{:end "arrow"}
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701592075036
+:italic false}}
+:block/updated-at 1701592350437} 
+{:block/created-at 1701592190204
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 22
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "e667e262-91b5-11ee-b408-29153d21decb"
+:fontWeight 400
+:noFill true
+:point [1334 362.8]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 3.14]
+:bindingId "e667e260-91b5-11ee-b408-29153d21decb"}
+:end 
+{:id "end"
+:canBind true
+:point [102 0]
+:bindingId "e667e261-91b5-11ee-b408-29153d21decb"}}
+:decorations 
+{:end "arrow"}
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701592093962
+:italic false}}
+:block/updated-at 1701592190204} 
+{:block/created-at 1701592190204
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 23
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "ede32ae2-91b5-11ee-b408-29153d21decb"
+:fontWeight 400
+:noFill true
+:point [1351 315.51]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [408 24.5]
+:bindingId "ede32ae0-91b5-11ee-b408-29153d21decb"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "ede32ae1-91b5-11ee-b408-29153d21decb"}}
+:decorations 
+{:end "arrow"}
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701592106380
+:italic false}}
+:block/updated-at 1701592190204} 
+{:block/created-at 1701594089790
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "red"
+:borderRadius 0
+:index 24
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "text"
+:size [301 58]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "217ed660-91b6-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1224 176]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701592193072
+:italic false
+:text "spaceship damage and repairs\nself repair or buy repairs?"}}
+:block/updated-at 1701594089790} 
+{:block/created-at 1701592999540
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 25
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "292e2732-91b6-11ee-b408-29153d21decb"
+:fontWeight 400
+:noFill true
+:point [1263.42 238]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 49]
+:bindingId "292e2730-91b6-11ee-b408-29153d21decb"}
+:end 
+{:id "end"
+:canBind true
+:point [48.78 0]
+:bindingId "292e2731-91b6-11ee-b408-29153d21decb"}}
+:decorations 
+{:end "arrow"}
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701592205706
+:italic false}}
+:block/updated-at 1701592999540} 
+{:block/created-at 1701593457649
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "red"
+:borderRadius 0
+:index 26
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "text"
+:size [281 82]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "2d288650-91b6-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [880 160]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701592212686
+:italic false
+:text "spaceship modifications?\nmodular ships?\notherwise just buyable ships"}}
+:block/updated-at 1701593457649} 
+{:block/created-at 1701593457666
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 27
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "37ac2cd2-91b6-11ee-b408-29153d21decb"
+:fontWeight 400
+:noFill true
+:point [1117.86 246]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [88.7 41]
+:bindingId "37ac2cd0-91b6-11ee-b408-29153d21decb"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "37ac2cd1-91b6-11ee-b408-29153d21decb"}}
+:decorations 
+{:end "arrow"}
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701592230728
+:italic false}}
+:block/updated-at 1701593457666} 
+{:block/created-at 1701592903380
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 28
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [510 82]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "02d91d50-91b7-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1352 48]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701592571146
+:italic false
+:text "blue = goal --> mechanics I want to include\nred = debt --> necessary because of goal mechanics\nwhite = intermediate --> context for mechanics"}}
+:block/updated-at 1701592903380} 
+{:block/content "spaceship modifications?\r\nmodular ships?"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "656c38dc-b498-41d2-b06b-68c7d4cab883"}
+:block/parent 
+{:block/uuid #uuid "656c38dc-b498-41d2-b06b-68c7d4cab883"}
+:block/uuid #uuid "656c3f8e-2a04-4962-933a-8a173a07d934"})
+:pages (
+{:block/uuid #uuid "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:name "game brainstorm"
+:bindings 
+{:dac86ba1-91b5-11ee-b408-29153d21decb 
+{:id "dac86ba1-91b5-11ee-b408-29153d21decb"
+:type "line"
+:fromId "dac86ba2-91b5-11ee-b408-29153d21decb"
+:toId "553c4ca0-91b4-11ee-b408-29153d21decb"
+:handleId "end"
+:point [0.54 0.24]
+:distance 4}
+:7816c3d0-91b5-11ee-b408-29153d21decb 
+{:id "7816c3d0-91b5-11ee-b408-29153d21decb"
+:type "line"
+:fromId "7816c3d2-91b5-11ee-b408-29153d21decb"
+:toId "5dcae470-91b5-11ee-b408-29153d21decb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:ae2fe7e0-91b4-11ee-b408-29153d21decb 
+{:id "ae2fe7e0-91b4-11ee-b408-29153d21decb"
+:type "line"
+:fromId "ae2fe7e2-91b4-11ee-b408-29153d21decb"
+:toId "a3540f40-91b4-11ee-b408-29153d21decb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:1acffb10-91b5-11ee-b408-29153d21decb 
+{:id "1acffb10-91b5-11ee-b408-29153d21decb"
+:type "line"
+:fromId "1acffb12-91b5-11ee-b408-29153d21decb"
+:toId "0d83beb0-91b5-11ee-b408-29153d21decb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:6ed88b11-91b4-11ee-b408-29153d21decb 
+{:id "6ed88b11-91b4-11ee-b408-29153d21decb"
+:type "line"
+:fromId "6ed8b220-91b4-11ee-b408-29153d21decb"
+:toId "553c4ca0-91b4-11ee-b408-29153d21decb"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:7bb38f10-91b4-11ee-b408-29153d21decb 
+{:id "7bb38f10-91b4-11ee-b408-29153d21decb"
+:type "line"
+:fromId "7bb38f12-91b4-11ee-b408-29153d21decb"
+:toId "01bf7750-91b4-11ee-b408-29153d21decb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:1acffb11-91b5-11ee-b408-29153d21decb 
+{:id "1acffb11-91b5-11ee-b408-29153d21decb"
+:type "line"
+:fromId "1acffb12-91b5-11ee-b408-29153d21decb"
+:toId "26baa110-91b4-11ee-b408-29153d21decb"
+:handleId "end"
+:point [0.58 0.74]
+:distance 4}
+:37ac2cd1-91b6-11ee-b408-29153d21decb 
+{:id "37ac2cd1-91b6-11ee-b408-29153d21decb"
+:type "line"
+:fromId "37ac2cd2-91b6-11ee-b408-29153d21decb"
+:toId "2d288650-91b6-11ee-b408-29153d21decb"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:c9759090-91b4-11ee-b408-29153d21decb 
+{:id "c9759090-91b4-11ee-b408-29153d21decb"
+:type "line"
+:fromId "c9759092-91b4-11ee-b408-29153d21decb"
+:toId "b0025df0-91b4-11ee-b408-29153d21decb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:794cd2d1-91b5-11ee-b408-29153d21decb 
+{:id "794cd2d1-91b5-11ee-b408-29153d21decb"
+:type "line"
+:fromId "794cd2d2-91b5-11ee-b408-29153d21decb"
+:toId "724c1180-91b5-11ee-b408-29153d21decb"
+:handleId "end"
+:point [0.73 0.59]
+:distance 4}
+:794cd2d0-91b5-11ee-b408-29153d21decb 
+{:id "794cd2d0-91b5-11ee-b408-29153d21decb"
+:type "line"
+:fromId "794cd2d2-91b5-11ee-b408-29153d21decb"
+:toId "69853630-91b5-11ee-b408-29153d21decb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:19c4a591-91b5-11ee-b408-29153d21decb 
+{:id "19c4a591-91b5-11ee-b408-29153d21decb"
+:type "line"
+:fromId "19c4a592-91b5-11ee-b408-29153d21decb"
+:toId "0d83beb0-91b5-11ee-b408-29153d21decb"
+:handleId "end"
+:point [0.52 0.25]
+:distance 4}
+:7816c3d1-91b5-11ee-b408-29153d21decb 
+{:id "7816c3d1-91b5-11ee-b408-29153d21decb"
+:type "line"
+:fromId "7816c3d2-91b5-11ee-b408-29153d21decb"
+:toId "724c1180-91b5-11ee-b408-29153d21decb"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:c9759091-91b4-11ee-b408-29153d21decb 
+{:id "c9759091-91b4-11ee-b408-29153d21decb"
+:type "line"
+:fromId "c9759092-91b4-11ee-b408-29153d21decb"
+:toId "553c4ca0-91b4-11ee-b408-29153d21decb"
+:handleId "end"
+:point [0.67 0.33]
+:distance 4}
+:6d375e31-91b4-11ee-b408-29153d21decb 
+{:id "6d375e31-91b4-11ee-b408-29153d21decb"
+:type "line"
+:fromId "6d375e32-91b4-11ee-b408-29153d21decb"
+:toId "26baa110-91b4-11ee-b408-29153d21decb"
+:handleId "end"
+:point [0.77 0.6]
+:distance 4}
+:ede32ae1-91b5-11ee-b408-29153d21decb 
+{:id "ede32ae1-91b5-11ee-b408-29153d21decb"
+:type "line"
+:fromId "ede32ae2-91b5-11ee-b408-29153d21decb"
+:toId "4d606d90-91b4-11ee-b408-29153d21decb"
+:handleId "end"
+:point [0.37 0.56]
+:distance 4}
+:6ed88b10-91b4-11ee-b408-29153d21decb 
+{:id "6ed88b10-91b4-11ee-b408-29153d21decb"
+:type "line"
+:fromId "6ed8b220-91b4-11ee-b408-29153d21decb"
+:toId "01bf7750-91b4-11ee-b408-29153d21decb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:e667e261-91b5-11ee-b408-29153d21decb 
+{:id "e667e261-91b5-11ee-b408-29153d21decb"
+:type "line"
+:fromId "e667e262-91b5-11ee-b408-29153d21decb"
+:toId "0bccdc60-91b4-11ee-b408-29153d21decb"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:7bb38f11-91b4-11ee-b408-29153d21decb 
+{:id "7bb38f11-91b4-11ee-b408-29153d21decb"
+:type "line"
+:fromId "7bb38f12-91b4-11ee-b408-29153d21decb"
+:toId "4d606d90-91b4-11ee-b408-29153d21decb"
+:handleId "end"
+:point [0.72 0.24]
+:distance 4}
+:6d375e30-91b4-11ee-b408-29153d21decb 
+{:id "6d375e30-91b4-11ee-b408-29153d21decb"
+:type "line"
+:fromId "6d375e32-91b4-11ee-b408-29153d21decb"
+:toId "0bccdc60-91b4-11ee-b408-29153d21decb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:292e2730-91b6-11ee-b408-29153d21decb 
+{:id "292e2730-91b6-11ee-b408-29153d21decb"
+:type "line"
+:fromId "292e2732-91b6-11ee-b408-29153d21decb"
+:toId "4d606d90-91b4-11ee-b408-29153d21decb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:e667e260-91b5-11ee-b408-29153d21decb 
+{:id "e667e260-91b5-11ee-b408-29153d21decb"
+:type "line"
+:fromId "e667e262-91b5-11ee-b408-29153d21decb"
+:toId "553c4ca0-91b4-11ee-b408-29153d21decb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:ede32ae0-91b5-11ee-b408-29153d21decb 
+{:id "ede32ae0-91b5-11ee-b408-29153d21decb"
+:type "line"
+:fromId "ede32ae2-91b5-11ee-b408-29153d21decb"
+:toId "26baa110-91b4-11ee-b408-29153d21decb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:37ac2cd0-91b6-11ee-b408-29153d21decb 
+{:id "37ac2cd0-91b6-11ee-b408-29153d21decb"
+:type "line"
+:fromId "37ac2cd2-91b6-11ee-b408-29153d21decb"
+:toId "4d606d90-91b4-11ee-b408-29153d21decb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:292e2731-91b6-11ee-b408-29153d21decb 
+{:id "292e2731-91b6-11ee-b408-29153d21decb"
+:type "line"
+:fromId "292e2732-91b6-11ee-b408-29153d21decb"
+:toId "217ed660-91b6-11ee-b408-29153d21decb"
+:handleId "end"
+:point [0.46 0.24]
+:distance 4}
+:ae2fe7e1-91b4-11ee-b408-29153d21decb 
+{:id "ae2fe7e1-91b4-11ee-b408-29153d21decb"
+:type "line"
+:fromId "ae2fe7e2-91b4-11ee-b408-29153d21decb"
+:toId "553c4ca0-91b4-11ee-b408-29153d21decb"
+:handleId "end"
+:point [0.75 0.24]
+:distance 4}
+:19c4a590-91b5-11ee-b408-29153d21decb 
+{:id "19c4a590-91b5-11ee-b408-29153d21decb"
+:type "line"
+:fromId "19c4a592-91b5-11ee-b408-29153d21decb"
+:toId "0bccdc60-91b4-11ee-b408-29153d21decb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:dac86ba0-91b5-11ee-b408-29153d21decb 
+{:id "dac86ba0-91b5-11ee-b408-29153d21decb"
+:type "line"
+:fromId "dac86ba2-91b5-11ee-b408-29153d21decb"
+:toId "724c1180-91b5-11ee-b408-29153d21decb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}}
+:nonce 1
+:assets []
+:shapes-index ("01bf7750-91b4-11ee-b408-29153d21decb" "0bccdc60-91b4-11ee-b408-29153d21decb" "26baa110-91b4-11ee-b408-29153d21decb" "4d606d90-91b4-11ee-b408-29153d21decb" "553c4ca0-91b4-11ee-b408-29153d21decb" "6d375e32-91b4-11ee-b408-29153d21decb" "6ed8b220-91b4-11ee-b408-29153d21decb" "7bb38f12-91b4-11ee-b408-29153d21decb" "a3540f40-91b4-11ee-b408-29153d21decb" "ae2fe7e2-91b4-11ee-b408-29153d21decb" "b0025df0-91b4-11ee-b408-29153d21decb" "c9759092-91b4-11ee-b408-29153d21decb" "0d83beb0-91b5-11ee-b408-29153d21decb" "19c4a592-91b5-11ee-b408-29153d21decb" "1acffb12-91b5-11ee-b408-29153d21decb" "2b012ef0-91b5-11ee-b408-29153d21decb" "5dcae470-91b5-11ee-b408-29153d21decb" "69853630-91b5-11ee-b408-29153d21decb" "724c1180-91b5-11ee-b408-29153d21decb" "7816c3d2-91b5-11ee-b408-29153d21decb" "794cd2d2-91b5-11ee-b408-29153d21decb" "dac86ba2-91b5-11ee-b408-29153d21decb" "e667e262-91b5-11ee-b408-29153d21decb" "ede32ae2-91b5-11ee-b408-29153d21decb" "217ed660-91b6-11ee-b408-29153d21decb" "292e2732-91b6-11ee-b408-29153d21decb" "2d288650-91b6-11ee-b408-29153d21decb" "37ac2cd2-91b6-11ee-b408-29153d21decb" "02d91d50-91b7-11ee-b408-29153d21decb")}}
+:block/journal? false
+:block/updated-at 1701594089806
+:block/created-at 1701591260895
+:block/type "whiteboard"
+:block/name "game brainstorm"
+:block/original-name "game brainstorm"})}

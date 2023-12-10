@@ -1,0 +1,8 @@
+@import url('https://cdn.jsdelivr.net/gh/dracula/logseq@master/custom.css');
+* {
+  font-family: Inter, monospace;
+  font-variant-ligatures: none !important;
+}
+@font-face {
+  font-weight: 100 100
+}
