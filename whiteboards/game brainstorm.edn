@@ -1,155 +1,17 @@
 {:blocks (
-{:block/created-at 1701592391047
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:isSizeLocked true
-:stroke "blue"
-:borderRadius 0
-:index 0
-:scale [1 1]
-:scaleLevel "md"
-:fill "blue"
-:type "text"
-:size [277 34]
-:fontFamily "var(--ls-font-family)"
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "01bf7750-91b4-11ee-b408-29153d21decb"
-:padding 4
-:fontWeight 400
-:noFill true
-:point [720 328]
-:lineHeight 1.2
-:fontSize 20
-:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
-:nonce 1701591281274
-:italic false
-:text "mini solar system simulation"}}
-:block/updated-at 1701592391047} 
-{:block/created-at 1701592190204
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:isSizeLocked true
-:stroke ""
-:borderRadius 0
-:index 1
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "text"
-:size [109 34]
-:fontFamily "var(--ls-font-family)"
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "0bccdc60-91b4-11ee-b408-29153d21decb"
-:padding 4
-:fontWeight 400
-:noFill true
-:point [1440 344]
-:lineHeight 1.2
-:fontSize 20
-:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
-:nonce 1701591301867
-:italic false
-:text "diegetic ui"}}
-:block/updated-at 1701592190204} 
-{:block/created-at 1701592190204
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:isSizeLocked true
-:stroke ""
-:borderRadius 0
-:index 2
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "text"
-:size [164 34]
-:fontFamily "var(--ls-font-family)"
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "26baa110-91b4-11ee-b408-29153d21decb"
-:padding 4
-:fontWeight 400
-:noFill true
-:point [1760 328]
-:lineHeight 1.2
-:fontSize 20
-:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
-:nonce 1701591349312
-:italic false
-:text "world interfaces"}}
-:block/updated-at 1701592190204} 
-{:block/created-at 1701592190204
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:isSizeLocked true
-:stroke ""
-:borderRadius 0
-:index 3
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "text"
-:size [203 34]
-:fontFamily "var(--ls-font-family)"
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "4d606d90-91b4-11ee-b408-29153d21decb"
-:padding 4
-:fontWeight 400
-:noFill true
-:point [1144 288]
-:lineHeight 1.2
-:fontSize 20
-:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
-:nonce 1701591410510
-:italic false
-:text "spaceship controller"}}
-:block/updated-at 1701592190204} 
-{:block/created-at 1701592190204
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:isSizeLocked true
-:stroke ""
-:borderRadius 0
-:index 4
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "text"
-:size [197 34]
-:fontFamily "var(--ls-font-family)"
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "553c4ca0-91b4-11ee-b408-29153d21decb"
-:padding 4
-:fontWeight 400
-:noFill true
-:point [1136 352]
-:lineHeight 1.2
-:fontSize 20
-:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
-:nonce 1701591423339
-:italic false
-:text "character controller"}}
-:block/updated-at 1701592190204} 
-{:block/created-at 1701592190204
+{:block/content "spaceship modifications?\r\nmodular ships?"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6576b5bd-62ee-4393-b459-4642c1f1c7ba"}
+:block/parent 
+{:block/uuid #uuid "6576b5bd-62ee-4393-b459-4642c1f1c7ba"}
+:block/uuid #uuid "656c3f8e-2a04-4962-933a-8a173a07d934"} 
+{:block/created-at 1701593457666
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 5
+:index 27
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -158,70 +20,34 @@
 :strokeWidth 1
 :opacity 1
 :label ""
-:id "6d375e32-91b4-11ee-b408-29153d21decb"
+:id "37ac2cd2-91b6-11ee-b408-29153d21decb"
 :fontWeight 400
 :noFill true
-:point [1550 353.17]
+:point [1117.86 246]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 6.17]
-:bindingId "6d375e30-91b4-11ee-b408-29153d21decb"}
+:point [88.7 41]
+:bindingId "37ac2cd0-91b6-11ee-b408-29153d21decb"}
 :end 
 {:id "end"
-:canBind true
-:point [206 0]
-:bindingId "6d375e31-91b4-11ee-b408-29153d21decb"}}
-:decorations 
-{:end "arrow"}
-:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
-:nonce 1701591464965
-:italic false}}
-:block/updated-at 1701592190204} 
-{:block/created-at 1701592190204
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 6
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "6ed8b220-91b4-11ee-b408-29153d21decb"
-:fontWeight 400
-:noFill true
-:point [998 353.9]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
 :canBind true
 :point [0 0]
-:bindingId "6ed88b10-91b4-11ee-b408-29153d21decb"}
-:end 
-{:id "end"
-:canBind true
-:point [134 8.56]
-:bindingId "6ed88b11-91b4-11ee-b408-29153d21decb"}}
+:bindingId "37ac2cd1-91b6-11ee-b408-29153d21decb"}}
 :decorations 
 {:end "arrow"}
 :parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
-:nonce 1701591463850
+:nonce 1701592230728
 :italic false}}
-:block/updated-at 1701592190204} 
+:block/updated-at 1701593457666} 
 {:block/created-at 1701592190204
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 7
+:index 23
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -230,57 +56,28 @@
 :strokeWidth 1
 :opacity 1
 :label ""
-:id "7bb38f12-91b4-11ee-b408-29153d21decb"
+:id "ede32ae2-91b5-11ee-b408-29153d21decb"
 :fontWeight 400
 :noFill true
-:point [998 311.93]
+:point [1351 315.51]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 16.68]
-:bindingId "7bb38f10-91b4-11ee-b408-29153d21decb"}
+:point [408 24.5]
+:bindingId "ede32ae0-91b5-11ee-b408-29153d21decb"}
 :end 
 {:id "end"
 :canBind true
-:point [142 0]
-:bindingId "7bb38f11-91b4-11ee-b408-29153d21decb"}}
+:point [0 0]
+:bindingId "ede32ae1-91b5-11ee-b408-29153d21decb"}}
 :decorations 
 {:end "arrow"}
 :parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
-:nonce 1701591485528
+:nonce 1701592106380
 :italic false}}
 :block/updated-at 1701592190204} 
-{:block/created-at 1701593013034
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:isSizeLocked true
-:stroke "red"
-:borderRadius 0
-:index 8
-:scale [1 1]
-:scaleLevel "md"
-:fill "red"
-:type "text"
-:size [221 34]
-:fontFamily "var(--ls-font-family)"
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "a3540f40-91b4-11ee-b408-29153d21decb"
-:padding 4
-:fontWeight 400
-:noFill true
-:point [1432 424]
-:lineHeight 1.2
-:fontSize 20
-:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
-:nonce 1701591552207
-:italic false
-:text "procedural animations"}}
-:block/updated-at 1701593013034} 
 {:block/created-at 1701592329385
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -318,41 +115,71 @@
 :nonce 1701591570038
 :italic false}}
 :block/updated-at 1701592329385} 
-{:block/created-at 1701592391047
+{:block/created-at 1701592190204
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:isSizeLocked true
-:stroke "blue"
+:stroke ""
 :borderRadius 0
-:index 10
+:index 4
 :scale [1 1]
 :scaleLevel "md"
-:fill "blue"
+:fill ""
 :type "text"
-:size [290 34]
+:size [197 34]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:id "b0025df0-91b4-11ee-b408-29153d21decb"
+:id "553c4ca0-91b4-11ee-b408-29153d21decb"
 :padding 4
 :fontWeight 400
 :noFill true
-:point [776 440]
+:point [1136 352]
 :lineHeight 1.2
 :fontSize 20
 :parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
-:nonce 1701591574022
+:nonce 1701591423339
 :italic false
-:text "receiver-like weapon controls"}}
-:block/updated-at 1701592391047} 
-{:block/created-at 1701592345604
+:text "character controller"}}
+:block/updated-at 1701592190204} 
+{:block/created-at 1701592914261
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked false
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 15
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [472 56]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "2b012ef0-91b5-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [752 64]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591780445
+:italic false
+:text "what ties these mechanics together?\nwhy are they needed to make the gameloop fun?"}}
+:block/updated-at 1701592914261} 
+{:block/created-at 1701592999540
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 11
+:index 25
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -361,59 +188,189 @@
 :strokeWidth 1
 :opacity 1
 :label ""
-:id "c9759092-91b4-11ee-b408-29153d21decb"
+:id "292e2732-91b6-11ee-b408-29153d21decb"
 :fontWeight 400
 :noFill true
-:point [997.89 390]
+:point [1263.42 238]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 46]
-:bindingId "c9759090-91b4-11ee-b408-29153d21decb"}
+:point [0 49]
+:bindingId "292e2730-91b6-11ee-b408-29153d21decb"}
 :end 
 {:id "end"
 :canBind true
-:point [168.43 0]
-:bindingId "c9759091-91b4-11ee-b408-29153d21decb"}}
+:point [48.78 0]
+:bindingId "292e2731-91b6-11ee-b408-29153d21decb"}}
 :decorations 
-{:start nil
-:end "arrow"}
+{:end "arrow"}
 :parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
-:nonce 1701591615892
+:nonce 1701592205706
 :italic false}}
-:block/updated-at 1701592345604} 
-{:block/created-at 1701592190203
+:block/updated-at 1701592999540} 
+{:block/created-at 1701593013034
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:isSizeLocked false
-:stroke ""
-:rotation 0
+{:isSizeLocked true
+:stroke "red"
 :borderRadius 0
-:index 12
+:index 8
 :scale [1 1]
 :scaleLevel "md"
-:fill ""
+:fill "red"
 :type "text"
-:size [288 32]
+:size [221 34]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:id "0d83beb0-91b5-11ee-b408-29153d21decb"
+:id "a3540f40-91b4-11ee-b408-29153d21decb"
 :padding 4
 :fontWeight 400
 :noFill true
-:point [1512 240]
+:point [1432 424]
 :lineHeight 1.2
 :fontSize 20
 :parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
-:nonce 1701591731595
+:nonce 1701591552207
 :italic false
-:text "star citizen-like ui interaction"}}
-:block/updated-at 1701592190203} 
+:text "procedural animations"}
+:id "a3540f40-91b4-11ee-b408-29153d21decb"}
+:block/updated-at 1701593013034} 
+{:block/created-at 1701592350437
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 18
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [160 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "724c1180-91b5-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1152 528]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591899816
+:italic false
+:text "weapon system"}}
+:block/updated-at 1701592350437} 
+{:block/created-at 1701592190204
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 22
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "e667e262-91b5-11ee-b408-29153d21decb"
+:fontWeight 400
+:noFill true
+:point [1334 362.8]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 3.14]
+:bindingId "e667e260-91b5-11ee-b408-29153d21decb"}
+:end 
+{:id "end"
+:canBind true
+:point [102 0]
+:bindingId "e667e261-91b5-11ee-b408-29153d21decb"}}
+:decorations 
+{:end "arrow"}
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701592093962
+:italic false}}
+:block/updated-at 1701592190204} 
+{:block/created-at 1701594089790
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "red"
+:borderRadius 0
+:index 24
+:scale [1 1]
+:scaleLevel "md"
+:fill "red"
+:type "text"
+:size [301 58]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "217ed660-91b6-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1224 176]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701592193072
+:italic false
+:text "spaceship damage and repairs\nself repair or buy repairs?"}
+:id "217ed660-91b6-11ee-b408-29153d21decb"}
+:block/updated-at 1701594089790} 
+{:block/created-at 1701592190204
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 7
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "7bb38f12-91b4-11ee-b408-29153d21decb"
+:fontWeight 400
+:noFill true
+:point [998 311.93]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 16.68]
+:bindingId "7bb38f10-91b4-11ee-b408-29153d21decb"}
+:end 
+{:id "end"
+:canBind true
+:point [142 0]
+:bindingId "7bb38f11-91b4-11ee-b408-29153d21decb"}}
+:decorations 
+{:end "arrow"}
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591485528
+:italic false}}
+:block/updated-at 1701592190204} 
 {:block/created-at 1701592190204
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -455,7 +412,7 @@
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 14
+:index 6
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -464,58 +421,57 @@
 :strokeWidth 1
 :opacity 1
 :label ""
-:id "1acffb12-91b5-11ee-b408-29153d21decb"
+:id "6ed8b220-91b4-11ee-b408-29153d21decb"
 :fontWeight 400
 :noFill true
-:point [1690.27 273]
+:point [998 353.9]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
 :point [0 0]
-:bindingId "1acffb10-91b5-11ee-b408-29153d21decb"}
+:bindingId "6ed88b10-91b4-11ee-b408-29153d21decb"}
 :end 
 {:id "end"
 :canBind true
-:point [102.83 51]
-:bindingId "1acffb11-91b5-11ee-b408-29153d21decb"}}
+:point [134 8.56]
+:bindingId "6ed88b11-91b4-11ee-b408-29153d21decb"}}
 :decorations 
 {:end "arrow"}
 :parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
-:nonce 1701591753187
+:nonce 1701591463850
 :italic false}}
 :block/updated-at 1701592190204} 
-{:block/created-at 1701592914261
+{:block/created-at 1701592903380
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:isSizeLocked false
+{:isSizeLocked true
 :stroke ""
-:rotation 0
 :borderRadius 0
-:index 15
+:index 28
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
 :type "text"
-:size [472 56]
+:size [510 82]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:id "2b012ef0-91b5-11ee-b408-29153d21decb"
+:id "02d91d50-91b7-11ee-b408-29153d21decb"
 :padding 4
 :fontWeight 400
 :noFill true
-:point [752 64]
+:point [1352 48]
 :lineHeight 1.2
 :fontSize 20
 :parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
-:nonce 1701591780445
+:nonce 1701592571146
 :italic false
-:text "what ties these mechanics together?\nwhy are they needed to make the gameloop fun?"}}
-:block/updated-at 1701592914261} 
+:text "blue = goal --> mechanics I want to include\nred = debt --> necessary because of goal mechanics\nwhite = intermediate --> context for mechanics"}}
+:block/updated-at 1701592903380} 
 {:block/created-at 1701592391046
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -543,66 +499,9 @@
 :parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
 :nonce 1701591865464
 :italic false
-:text "tarkov-like weapon modification"}}
+:text "tarkov-like weapon modification"}
+:id "5dcae470-91b5-11ee-b408-29153d21decb"}
 :block/updated-at 1701592391046} 
-{:block/created-at 1701592391047
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:isSizeLocked true
-:stroke "blue"
-:borderRadius 0
-:index 17
-:scale [1 1]
-:scaleLevel "md"
-:fill "blue"
-:type "text"
-:size [352 34]
-:fontFamily "var(--ls-font-family)"
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "69853630-91b5-11ee-b408-29153d21decb"
-:padding 4
-:fontWeight 400
-:noFill true
-:point [736 584]
-:lineHeight 1.2
-:fontSize 20
-:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
-:nonce 1701591885025
-:italic false
-:text "diablo/dredge-like inventory system"}}
-:block/updated-at 1701592391047} 
-{:block/created-at 1701592350437
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:isSizeLocked true
-:stroke ""
-:borderRadius 0
-:index 18
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "text"
-:size [160 34]
-:fontFamily "var(--ls-font-family)"
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "724c1180-91b5-11ee-b408-29153d21decb"
-:padding 4
-:fontWeight 400
-:noFill true
-:point [1152 528]
-:lineHeight 1.2
-:fontSize 20
-:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
-:nonce 1701591899816
-:italic false
-:text "weapon system"}}
-:block/updated-at 1701592350437} 
 {:block/created-at 1701592350437
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -639,6 +538,36 @@
 :nonce 1701591909368
 :italic false}}
 :block/updated-at 1701592350437} 
+{:block/created-at 1701592391047
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "blue"
+:borderRadius 0
+:index 17
+:scale [1 1]
+:scaleLevel "md"
+:fill "blue"
+:type "text"
+:size [352 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "69853630-91b5-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [736 584]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591885025
+:italic false
+:text "diablo/dredge-like inventory system"}
+:id "69853630-91b5-11ee-b408-29153d21decb"}
+:block/updated-at 1701592391047} 
 {:block/created-at 1701592350436
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -711,113 +640,42 @@
 :nonce 1701592075036
 :italic false}}
 :block/updated-at 1701592350437} 
-{:block/created-at 1701592190204
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 22
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "e667e262-91b5-11ee-b408-29153d21decb"
-:fontWeight 400
-:noFill true
-:point [1334 362.8]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 3.14]
-:bindingId "e667e260-91b5-11ee-b408-29153d21decb"}
-:end 
-{:id "end"
-:canBind true
-:point [102 0]
-:bindingId "e667e261-91b5-11ee-b408-29153d21decb"}}
-:decorations 
-{:end "arrow"}
-:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
-:nonce 1701592093962
-:italic false}}
-:block/updated-at 1701592190204} 
-{:block/created-at 1701592190204
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 23
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "ede32ae2-91b5-11ee-b408-29153d21decb"
-:fontWeight 400
-:noFill true
-:point [1351 315.51]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [408 24.5]
-:bindingId "ede32ae0-91b5-11ee-b408-29153d21decb"}
-:end 
-{:id "end"
-:canBind true
-:point [0 0]
-:bindingId "ede32ae1-91b5-11ee-b408-29153d21decb"}}
-:decorations 
-{:end "arrow"}
-:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
-:nonce 1701592106380
-:italic false}}
-:block/updated-at 1701592190204} 
-{:block/created-at 1701594089790
+{:block/created-at 1701592391047
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:isSizeLocked true
-:stroke "red"
+:stroke "blue"
 :borderRadius 0
-:index 24
+:index 0
 :scale [1 1]
 :scaleLevel "md"
-:fill "red"
+:fill "blue"
 :type "text"
-:size [301 58]
+:size [277 34]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:id "217ed660-91b6-11ee-b408-29153d21decb"
+:id "01bf7750-91b4-11ee-b408-29153d21decb"
 :padding 4
 :fontWeight 400
 :noFill true
-:point [1224 176]
+:point [720 328]
 :lineHeight 1.2
 :fontSize 20
 :parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
-:nonce 1701592193072
+:nonce 1701591281274
 :italic false
-:text "spaceship damage and repairs\nself repair or buy repairs?"}}
-:block/updated-at 1701594089790} 
-{:block/created-at 1701592999540
+:text "mini solar system simulation"}
+:id "01bf7750-91b4-11ee-b408-29153d21decb"}
+:block/updated-at 1701592391047} 
+{:block/created-at 1701592190204
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 25
+:index 14
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -826,28 +684,152 @@
 :strokeWidth 1
 :opacity 1
 :label ""
-:id "292e2732-91b6-11ee-b408-29153d21decb"
+:id "1acffb12-91b5-11ee-b408-29153d21decb"
 :fontWeight 400
 :noFill true
-:point [1263.42 238]
+:point [1690.27 273]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0 49]
-:bindingId "292e2730-91b6-11ee-b408-29153d21decb"}
+:point [0 0]
+:bindingId "1acffb10-91b5-11ee-b408-29153d21decb"}
 :end 
 {:id "end"
 :canBind true
-:point [48.78 0]
-:bindingId "292e2731-91b6-11ee-b408-29153d21decb"}}
+:point [102.83 51]
+:bindingId "1acffb11-91b5-11ee-b408-29153d21decb"}}
 :decorations 
 {:end "arrow"}
 :parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
-:nonce 1701592205706
+:nonce 1701591753187
 :italic false}}
-:block/updated-at 1701592999540} 
+:block/updated-at 1701592190204} 
+{:block/created-at 1701592190204
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [109 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0bccdc60-91b4-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1440 344]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591301867
+:italic false
+:text "diegetic ui"}}
+:block/updated-at 1701592190204} 
+{:block/created-at 1701592345604
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 11
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "c9759092-91b4-11ee-b408-29153d21decb"
+:fontWeight 400
+:noFill true
+:point [997.89 390]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 46]
+:bindingId "c9759090-91b4-11ee-b408-29153d21decb"}
+:end 
+{:id "end"
+:canBind true
+:point [168.43 0]
+:bindingId "c9759091-91b4-11ee-b408-29153d21decb"}}
+:decorations 
+{:start nil
+:end "arrow"}
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591615892
+:italic false}}
+:block/updated-at 1701592345604} 
+{:block/created-at 1701592190204
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [203 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4d606d90-91b4-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1144 288]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591410510
+:italic false
+:text "spaceship controller"}}
+:block/updated-at 1701592190204} 
+{:block/created-at 1701592190204
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [164 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "26baa110-91b4-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1760 328]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591349312
+:italic false
+:text "world interfaces"}}
+:block/updated-at 1701592190204} 
 {:block/created-at 1701593457649
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -875,14 +857,15 @@
 :parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
 :nonce 1701592212686
 :italic false
-:text "spaceship modifications?\nmodular ships?\notherwise just buyable ships"}}
+:text "spaceship modifications?\nmodular ships?\notherwise just buyable ships"}
+:id "2d288650-91b6-11ee-b408-29153d21decb"}
 :block/updated-at 1701593457649} 
-{:block/created-at 1701593457666
+{:block/created-at 1701592190204
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 27
+:index 5
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -891,66 +874,90 @@
 :strokeWidth 1
 :opacity 1
 :label ""
-:id "37ac2cd2-91b6-11ee-b408-29153d21decb"
+:id "6d375e32-91b4-11ee-b408-29153d21decb"
 :fontWeight 400
 :noFill true
-:point [1117.86 246]
+:point [1550 353.17]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [88.7 41]
-:bindingId "37ac2cd0-91b6-11ee-b408-29153d21decb"}
+:point [0 6.17]
+:bindingId "6d375e30-91b4-11ee-b408-29153d21decb"}
 :end 
 {:id "end"
 :canBind true
-:point [0 0]
-:bindingId "37ac2cd1-91b6-11ee-b408-29153d21decb"}}
+:point [206 0]
+:bindingId "6d375e31-91b4-11ee-b408-29153d21decb"}}
 :decorations 
 {:end "arrow"}
 :parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
-:nonce 1701592230728
+:nonce 1701591464965
 :italic false}}
-:block/updated-at 1701593457666} 
-{:block/created-at 1701592903380
+:block/updated-at 1701592190204} 
+{:block/created-at 1701592190203
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:isSizeLocked true
+{:isSizeLocked false
 :stroke ""
+:rotation 0
 :borderRadius 0
-:index 28
+:index 12
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
 :type "text"
-:size [510 82]
+:size [288 32]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:id "02d91d50-91b7-11ee-b408-29153d21decb"
+:id "0d83beb0-91b5-11ee-b408-29153d21decb"
 :padding 4
 :fontWeight 400
 :noFill true
-:point [1352 48]
+:point [1512 240]
 :lineHeight 1.2
 :fontSize 20
 :parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
-:nonce 1701592571146
+:nonce 1701591731595
 :italic false
-:text "blue = goal --> mechanics I want to include\nred = debt --> necessary because of goal mechanics\nwhite = intermediate --> context for mechanics"}}
-:block/updated-at 1701592903380} 
-{:block/content "spaceship modifications?\r\nmodular ships?"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "656c38dc-b498-41d2-b06b-68c7d4cab883"}
-:block/parent 
-{:block/uuid #uuid "656c38dc-b498-41d2-b06b-68c7d4cab883"}
-:block/uuid #uuid "656c3f8e-2a04-4962-933a-8a173a07d934"})
+:text "star citizen-like ui interaction"}}
+:block/updated-at 1701592190203} 
+{:block/created-at 1701592391047
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "blue"
+:borderRadius 0
+:index 10
+:scale [1 1]
+:scaleLevel "md"
+:fill "blue"
+:type "text"
+:size [290 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b0025df0-91b4-11ee-b408-29153d21decb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [776 440]
+:lineHeight 1.2
+:fontSize 20
+:parentId "656c38dc-b498-41d2-b06b-68c7d4cab883"
+:nonce 1701591574022
+:italic false
+:text "receiver-like weapon controls"}
+:id "b0025df0-91b4-11ee-b408-29153d21decb"}
+:block/updated-at 1701592391047})
 :pages (
-{:block/uuid #uuid "656c38dc-b498-41d2-b06b-68c7d4cab883"
+{:block/uuid #uuid "6576b5bd-62ee-4393-b459-4642c1f1c7ba"
 :block/properties 
 {:ls-type :whiteboard-page
 :logseq.tldraw.page 
@@ -1185,8 +1192,8 @@
 :assets []
 :shapes-index ("01bf7750-91b4-11ee-b408-29153d21decb" "0bccdc60-91b4-11ee-b408-29153d21decb" "26baa110-91b4-11ee-b408-29153d21decb" "4d606d90-91b4-11ee-b408-29153d21decb" "553c4ca0-91b4-11ee-b408-29153d21decb" "6d375e32-91b4-11ee-b408-29153d21decb" "6ed8b220-91b4-11ee-b408-29153d21decb" "7bb38f12-91b4-11ee-b408-29153d21decb" "a3540f40-91b4-11ee-b408-29153d21decb" "ae2fe7e2-91b4-11ee-b408-29153d21decb" "b0025df0-91b4-11ee-b408-29153d21decb" "c9759092-91b4-11ee-b408-29153d21decb" "0d83beb0-91b5-11ee-b408-29153d21decb" "19c4a592-91b5-11ee-b408-29153d21decb" "1acffb12-91b5-11ee-b408-29153d21decb" "2b012ef0-91b5-11ee-b408-29153d21decb" "5dcae470-91b5-11ee-b408-29153d21decb" "69853630-91b5-11ee-b408-29153d21decb" "724c1180-91b5-11ee-b408-29153d21decb" "7816c3d2-91b5-11ee-b408-29153d21decb" "794cd2d2-91b5-11ee-b408-29153d21decb" "dac86ba2-91b5-11ee-b408-29153d21decb" "e667e262-91b5-11ee-b408-29153d21decb" "ede32ae2-91b5-11ee-b408-29153d21decb" "217ed660-91b6-11ee-b408-29153d21decb" "292e2732-91b6-11ee-b408-29153d21decb" "2d288650-91b6-11ee-b408-29153d21decb" "37ac2cd2-91b6-11ee-b408-29153d21decb" "02d91d50-91b7-11ee-b408-29153d21decb")}}
 :block/journal? false
-:block/updated-at 1701594089806
-:block/created-at 1701591260895
+:block/updated-at 1702254010884
+:block/created-at 1702254010884
 :block/type "whiteboard"
 :block/name "game brainstorm"
 :block/original-name "game brainstorm"})}
